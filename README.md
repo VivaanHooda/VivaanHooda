@@ -1,1 +1,1 @@
-exploring computer science
+CompSci major scared of automata theory
