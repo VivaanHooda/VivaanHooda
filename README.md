@@ -1,3 +1,3 @@
-Interested in Machine Learning, Web Development, Blockchain & Open Source
+Interested in Machine Learning, Web Development, Blockchain, Cybersecurity & Open Source
 
 CompSci major scared of automata theory
